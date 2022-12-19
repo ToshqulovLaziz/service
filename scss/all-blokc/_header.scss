@@ -1,0 +1,48 @@
+/********* HEADER  STYLE START *********/
+.site-header {
+  padding: 50px 0 92px 0;
+  background-color: #fff;
+}
+.site-header__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.site-header__start {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.site-header__logo {
+  margin-right: 30px;
+}
+.sit-nav__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 26px;
+}
+.sit-nav__link {
+  font-size: 16px;
+  line-height: 19px;
+  color: var(--main-title-color);
+}
+.site-header__span {
+  color: #666;
+}
+.site-header__contakt {
+  padding-right: 53px;
+  font-size: 16px;
+  line-height: 19px;
+  color: #666;
+}
+.site-header__btn {
+  margin-left: 43px;
+  padding: 15px 41px 16px 33px;
+  font-size: 16px;
+  line-height: 19px;
+  border: 1px solid #666;
+  color: #666;
+  background-color: var(--main-bg-color);
+}
+/********* HEADER  STYLE END *********/
